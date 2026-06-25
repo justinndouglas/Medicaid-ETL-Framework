@@ -8,11 +8,11 @@ The framework is designed to automate the ingestion of large healthcare datasets
 
 This project is intended as a portfolio demonstration of ETL architecture, data engineering, and automation techniques.
 
-## Architecture
+## Architecture - This is a high level view of the data pipeline architecure I implemented at North Alabama Community Care.
 
 ![ETL Architecture](docs/diagram.png)
 
-## Workflow
+## Workflow - This is the sequence of events as the script runs when pulling files from the server into the Database tables.
 
 ![ETL Workflow](docs/workflow.png)
 
@@ -20,11 +20,11 @@ This project is intended as a portfolio demonstration of ETL architecture, data 
 
 ![ETL Workflow](docs/project_structure.png)
 
-## ETL Sequence
+## ETL Sequence 
 
 ![ETL Process](docs/etl_sequence.png)
 
-## Script Ouput
+## Script Ouput - This is the final output once a script completes.
 
 ![Script Output](docs/script_output.png)
 
