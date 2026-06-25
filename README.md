@@ -16,6 +16,14 @@ This project is intended as a portfolio demonstration of ETL architecture, data 
 
 ![ETL Workflow](docs/workflow.png)
 
+## Project Structure
+
+![ETL Workflow](docs/project_structure.png)
+
+## ETL Sequence
+
+![ETL Process](docs/etl_sequence.png)
+
 ---
 
 ## Features
