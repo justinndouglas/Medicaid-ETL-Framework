@@ -12,6 +12,10 @@ This project is intended as a portfolio demonstration of ETL architecture, data 
 
 ![ETL Architecture](docs/diagram.png)
 
+## Workflow
+
+![ETL Workflow](docs/workflow.png)
+
 ---
 
 ## Features
@@ -60,13 +64,13 @@ Healthcare-ETL-Framework/
 
 ## Included ETL Loaders
 
-* ESD Outpatient
-* ESD Inpatient
-* Immunization Pivot
-* Quarterly Quality Measures
-* 12-Month Quality Measures
-* IET Quarterly
-* Demographic Data
+* Outpatient File
+* Inpatient File
+* Immunization Pivot File
+* Quarterly Quality Measures File
+* 12-Month Quality Measures File
+* IET Quarterly File
+* Demographic Data File
 
 ---
 
