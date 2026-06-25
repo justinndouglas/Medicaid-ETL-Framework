@@ -10,8 +10,7 @@ This project is intended as a portfolio demonstration of ETL architecture, data 
 
 ## ETL Architecture
 
-![ETL Architecture](docs/architecture.png)
-
+![ETL Architecture][diagram.png]
 
 ---
 
@@ -103,3 +102,6 @@ Completion Summary
 ## Disclaimer
 
 This repository is provided for portfolio purposes and demonstrates general ETL architecture and engineering practices. It does not contain proprietary datasets, credentials, confidential business logic, or any protected information from a former employer.
+
+
+[def]: docs/architecture.png
