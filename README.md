@@ -24,6 +24,10 @@ This project is intended as a portfolio demonstration of ETL architecture, data 
 
 ![ETL Process](docs/etl_sequence.png)
 
+## Script Ouput
+
+![Script Output](docs/script_output.png)
+
 ---
 
 ## Features
