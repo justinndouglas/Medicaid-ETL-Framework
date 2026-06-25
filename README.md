@@ -8,9 +8,9 @@ The framework is designed to automate the ingestion of large healthcare datasets
 
 This project is intended as a portfolio demonstration of ETL architecture, data engineering, and automation techniques.
 
-## ETL Architecture
+## Architecture
 
-![ETL Architecture][diagram.png]
+![ETL Architecture](docs/diagram.png)
 
 ---
 
